@@ -766,7 +766,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e1a37cc4047ad54792f4d04ae700dc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Gameover: {fileID: 0}
+  Gameover: {fileID: 474653698}
+  time: 0
+  timescore: 60
 --- !u!222 &1397413980
 CanvasRenderer:
   m_ObjectHideFlags: 0
